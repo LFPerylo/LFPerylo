@@ -1,70 +1,108 @@
-<h1 align="center">Luis Felipe Perylo Benicio</h1>
-<h3 align="center">Full Stack Developer • Data & AI Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0AFF6C&height=140&section=header"/>
+
+<h1 align="center" style="font-weight:700; color:#0AFF6C;">
+Welcome to my GitHub! 🍃
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0AFF6C&size=32&center=true&vCenter=true&width=1000&lines=Luis+Felipe+Perylo;Full+Stack+Developer;Data+%26+AI+Enthusiast;Exploring+code,+data+and+innovation." />
+</p>
+
+<br/><br/>
 
 ---
 
-## 🚀 Sobre mim
-Desenvolvedor de Software e estudante de Ciência da Computação na CESAR School, com experiência em análise e visualização de dados, sistemas distribuídos, integração de serviços e criação de dashboards profissionais com Grafana e Zabbix.  
-Atualmente atuo com Python, Java, Django, Spring Boot, além de projetos acadêmicos envolvendo algoritmos, grafos, APIs, banco de dados e observabilidade.
+## 🟢 About me
+Sou desenvolvedor Full Stack com foco em **Python**, **Java**, **Django**, **Spring Boot**, **Análise de Dados**, **Grafana**, **Zabbix** e sistemas distribuídos.  
+Tenho experiência com dashboards profissionais, arquitetura limpa, APIs e projetos acadêmicos de alto nível.
 
-Busco **crescer nas áreas de Inteligência Artificial, Análise de Dados e Desenvolvimento Web**, contribuindo em projetos de impacto e ambientes de constante evolução técnica.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-**Linguagens:**  
-Python · Java · JavaScript · SQL · C · HTML · CSS  
-
-**Back-end:**  
-Django · Spring Boot · REST APIs  
-
-**Banco de Dados:**  
-PostgreSQL · MySQL · SQLite  
-
-**DevOps / Infra:**  
-Docker · Docker Compose · Grafana · Zabbix 
-
-**Data / IA:**  
-Pandas · NumPy · Matplotlib · NetworkX · Jupyter  
+Busco evoluir nas áreas de **IA**, **Dados** e **Desenvolvimento Web**.
 
 ---
 
-## 📊 Projetos em Destaque
+## 🟢 GitHub Overview
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LFPerylo&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=0AFF6C&title_color=0AFF6C&text_color=CFFFE9"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFPerylo&layout=compact&theme=chartreuse-dark&title_color=0AFF6C&text_color=CFFFE9"/>
+</div>
 
-### 🔹 **QNota – Sistema de Análise de Desempenho Escolar**
-> Spring Boot + Maven multimódulo + PostgreSQL + React  
-> Gestão de alunos, simulados, rankings, análises e painéis.
+---
 
-🔗 *[Link do repositório](https://github.com/LFPerylo/qnota.git)*  
-📌 *Projeto em construção com arquitetura limpa e DDD*
+## 🟢 Contribution Graph
+<div align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=LFPerylo&theme=chartreuse-dark&radius=12" width="95%"/>
+</div>
+
+---
+
+## 🟢 Tech Stack
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+
+</div>
+
+---
+
+## 🟢 Main Projects
+
+### 🔹 **QNota — Academic Performance Analytics**
+**Stack:** Spring Boot · PostgreSQL · Maven multimódulo · React  
+Sistema completo para gestão de alunos, simulados, ranking, análises e dashboards internos.  
+Desenvolvido com arquitetura limpa, testes e estrutura profissional de serviços/DAOs.
+
+---
+
+### 🔹 **UrbanFlow — Data Analytics for Urban Mobility**
+**Stack:** Python · PostgreSQL · Grafana · Pandas  
+Dashboard completo de mobilidade urbana, analisando congestionamentos, sensores, radares e tráfego real de Recife.
+
+---
+
+### 🔹 **Teski - BEM Cursos**
+**Stack:** Django · Python  
+Plataforma automatizada para criação e correção de simulados, ranking de turmas e envio de resultados para responsáveis.
 
 ---
 
 ### 🔹 **Sistema de Gestão de Festas Infantis**
-> API REST Java + JDBC + Thymeleaf  
-> Dashboard, CRUD completo, integração com procedures SQL.
-
-🔗 *[Link do repositório](https://github.com/LFPerylo/Sistema-Gestao-Festas-Infantis.git)*
-
----
-
-### 🔹 **UrbanFlow – Análise de Mobilidade Urbana**
-> Python + Grafana + PostgreSQL  
-> Dashboard com análise de tráfego de Recife e radares.
-
-🔗 *[Link do repositório](https://github.com/HeuerBcH/urban-flow-project-g16.git)*
+**Stack:** Java · JDBC puro · Thymeleaf · MySQL  
+Sistema para gerenciamento completo de festas infantis, incluindo clientes, aniversariantes, contratos, temas e pagamentos.  
+Possui CRUD completo, integração com procedures SQL, herança entre entidades e dashboard administrativo.
 
 ---
 
-## 📈 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LFPerylo&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFPerylo&layout=compact&theme=tokyonight"/>
-</p>
 
----
 
-## 📫 Contato
-📧 **peryledio@gmail.com**  
-💼 **LinkedIn: https://linkedin.com/in/luis-benicio**  
-📍 Recife – PE, Brasil  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0AFF6C&height=140&section=footer"/>
