@@ -21,17 +21,25 @@ Busco evoluir nas áreas de **IA**, **Dados** e **Desenvolvimento Web**.
 ---
 
 ## 🟢 GitHub Overview
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LFPerylo&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=0AFF6C&title_color=0AFF6C&text_color=CFFFE9"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFPerylo&layout=compact&theme=chartreuse-dark&title_color=0AFF6C&text_color=CFFFE9"/>
-</div>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LFPerylo&theme=github_dark"
+    alt="GitHub Profile Summary Card"
+  />
+</p>
 
 ---
 
 ## 🟢 Contribution Graph
-<div align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=LFPerylo&theme=chartreuse-dark&radius=12" width="95%"/>
-</div>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=LFPerylo&theme=dark&background=000000&ring=0AFF6C&fire=0AFF6C&currStreakLabel=0AFF6C&sideNums=0AFF6C&sideLabels=0AFF6C"
+    alt="GitHub Streak Graph"
+  />
+</p>
+
 
 ---
 
@@ -52,9 +60,6 @@ Busco evoluir nas áreas de **IA**, **Dados** e **Desenvolvimento Web**.
   <img width="14"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="14"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img width="14"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
