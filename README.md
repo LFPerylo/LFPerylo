@@ -13,7 +13,7 @@ Welcome to my GitHub! 🍃
 ---
 
 ## 🟢 About me
-Sou desenvolvedor Full Stack com foco em **Python**, **Java**, **Django**, **Spring Boot**, **Análise de Dados**, **Grafana**, **Zabbix** e sistemas distribuídos.  
+Sou desenvolvedor Full Stack com foco em **Python**, **Node**, **React**, **Java**, **Django**, **Spring Boot**, **Análise de Dados**, **Grafana**, **Zabbix** e sistemas distribuídos.  
 Tenho experiência com dashboards profissionais, arquitetura limpa, APIs e projetos acadêmicos de alto nível.
 
 Busco evoluir nas áreas de **IA**, **Dados** e **Desenvolvimento Web**.
